@@ -21,5 +21,7 @@
 # Commiting to Github 
 
 | git add . |
+
 | git commit -m "readme file added" |
+
 | git push -u origin main |
