@@ -17,3 +17,9 @@
 * git remote add origin https://github.com/Vikash-Kumar-984/Flask-API-Documentation.git
 
 * git push -u origin main
+
+# Commiting to Github 
+
+| git add . |
+| git commit -m "readme file added" |
+| git push -u origin main |
