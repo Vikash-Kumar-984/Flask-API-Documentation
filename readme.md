@@ -24,3 +24,11 @@
 |------------|
 | git commit -m "readme file added" |
 | git push -u origin main |
+
+# To check Documentations
+
+* Run python app.py in terminal
+
+* Then open browser and type: http://127.0.0.1:5000/docs 
+
+* It will give the Swagger UI of Documentation
